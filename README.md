@@ -11,3 +11,13 @@ In order to deploy via Cloud Build located in project MANAGEMENT to CloudFunctio
      |---------------------------|---------------------------------|
      | Cloud Functions Developer | `roles/cloudfunctions.developer`|
      | Service Account User      | `roles/iam.serviceAccountUser`  |
+<<<<<<< HEAD
+||||||| parent of 7d0951d (update project)
+
+
+### Copyleft (c) by Denis Astahov
+=======
+
+
+### Copyleft (c) by Aleksandr Ilves
+>>>>>>> 7d0951d (update project)
